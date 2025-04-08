@@ -39,7 +39,7 @@ python virus_scanner.py --path ./downloads
       Displays a clean/infected result for each file.
 
 🧠 Upcoming Features
-      * ✅ Recursive directory scanning``
+      * ✅ Recursive directory scanning
       * ✅ Quarantine detected files
       * ✅ VirusTotal API integration
       * ✅ Scan report generation
@@ -47,7 +47,7 @@ python virus_scanner.py --path ./downloads
       * ✅ Support for MD5, SHA1, and other hash types
 
 🤝 Contributing
-Feel free to fork this repo, suggest features, or raise issues!`
+Feel free to fork this repo, suggest features, or raise issues!
 We welcome contributions from anyone interested in Python and cybersecurity.
 
 📜 License
