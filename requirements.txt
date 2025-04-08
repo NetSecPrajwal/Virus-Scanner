@@ -1,0 +1,8 @@
+# Current standard library usage requires no external libraries
+
+# For future enhancements:
+requests==2.31.0        # For VirusTotal API integration
+PySimpleGUI==4.60.5     # For GUI (optional)
+
+# Optional: if you plan to use rich output in CLI
+rich==13.7.0
