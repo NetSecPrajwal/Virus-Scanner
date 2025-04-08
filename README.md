@@ -21,7 +21,7 @@ A lightweight and beginner-friendly **Python-based Virus Scanner** that scans fi
 Install dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt 
 ```
 
 🚀 Usage
