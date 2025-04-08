@@ -33,26 +33,26 @@ python virus_scanner.py --path /path/to/scan
 python virus_scanner.py --path ./downloads
 ```
 🧪 How It Works
-      Reads all files from the given directory.
-      Generates a SHA256 hash of each file.
-      Compares the hash with a list of known malicious hashes in malicious_hashes.txt.
-      Displays a clean/infected result for each file.
+      - Reads all files from the given directory.
+      - Generates a SHA256 hash of each file.
+      - Compares the hash with a list of known malicious hashes in malicious_hashes.txt.
+      - Displays a clean/infected result for each file.
 
 🧠 Upcoming Features
-      * ✅ Recursive directory scanning
-      * ✅ Quarantine detected files
-      * ✅ VirusTotal API integration
-      * ✅ Scan report generation
-      * ✅ GUI interface using PySimpleGUI
-      * ✅ Support for MD5, SHA1, and other hash types
+      - ✅ Recursive directory scanning
+      - ✅ Quarantine detected files
+      - ✅ VirusTotal API integration
+      - ✅ Scan report generation
+      - ✅ GUI interface using PySimpleGUI
+       ✅ Support for MD5, SHA1, and other hash types
 
 🤝 Contributing
-Feel free to fork this repo, suggest features, or raise issues!
-We welcome contributions from anyone interested in Python and cybersecurity.
+- Feel free to fork this repo, suggest features, or raise issues!
+- We welcome contributions from anyone interested in Python and cybersecurity.
 
 📜 License
-This project is for educational purposes only. Use responsibly.
+- This project is for educational purposes only. Use responsibly.
 
 🔗 Connect
-Made with ❤️ by NetSecPrajwal
-#Python #CyberSecurity #VirusScanner #OpenSource #MalwareDetection
+- Made with ❤️ by NetSecPrajwal
+- #Python #CyberSecurity #VirusScanner #OpenSource #MalwareDetection
